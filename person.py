@@ -1,3 +1,4 @@
 #Create a "Person" class
 class Person:
-    pass
+    def __init__(self) -> None:
+        pass
